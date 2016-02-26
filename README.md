@@ -10,10 +10,10 @@ __Curso de iniciación a Python aplicado a la Ingeniería ETSI. Caminos, Canales
 
 https://caminosinformatica.com/curso-python-febrero-marzo-2016/
 
-__Si acabas de llegar__, no tienes instalado Python o no conoces el Notebook de IPython te recomendamos que leas [esta introducción](http://nbviewer.ipython.org/github/AeroPython/Curso-AeroPython-UC3M/blob/master/notebooks_completos/Clase0_Bienvenido.ipynb). En ella aprenderás cómo descargar y utilizar el material del curso.
+__Si acabas de llegar__, no tienes instalado Python o no conoces el Notebook de IPython te recomendamos que leas [esta introducción](http://nbviewer.ipython.org/github/AeroPython/curso_caminos-2016/blob/master/notebooks_completos/Clase0_Bienvenido.ipynb). En ella aprenderás cómo descargar y utilizar el material del curso.
 
 __Si sólo quieres echar un vistazo__, puedes visualizar los notebooks de cada clase en:
-http://nbviewer.ipython.org/github/AeroPython/Curso-AeroPython-UC3M/tree/master/notebooks_completos/
+http://nbviewer.ipython.org/github/AeroPython/curso_caminos-2016/tree/master/notebooks_completos/
 
 ## Otras edicione del curso:
 
