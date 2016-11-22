@@ -15,22 +15,23 @@ __Si sólo quieres echar un vistazo__, puedes visualizar los notebooks de cada c
 
 https://caminosinformatica.com/producto/curso-python/
 
-Organizadores:
+Equipo:
 
-* [Álex Sáez](https://github.com/AlexS12) (docente)
-* [Jose Luis Cercós](https://github.com/sanguinariojoe) (docente)
-* [Juan Luis Cano](https://github.com/Juanlu001) (docente)
-* [Siro Moreno](https://github.com/AunSiro) (docente)
-* [Mabel Delgado](https://github.com/mabeldb) (colaborador)
+* [Álex Sáez](https://github.com/AlexS12)
+* [Jose Luis Cercós](https://github.com/sanguinariojoe)
+* [Juan Luis Cano](https://github.com/Juanlu001)
+* [Siro Moreno](https://github.com/AunSiro)
+* [Mabel Delgado](https://github.com/mabeldelgadob)
 * Martín Collado (sistemas/infraestructura)
 * José Luis Orts (sistemas/infraestructura)
 
 ## Ediciones previas: 
 
 * Febrero/Marzo 2016.
-    * [Juan Luis Cano](https://github.com/Juanlu001) (docente)
-    * [Álex Sáez](https://github.com/AlexS12) (docente)
-    * [Juan José Matesanz](https://github.com/JuanMatSa) (colaborador)
+
+    * [Juan Luis Cano](https://github.com/Juanlu001)
+    * [Álex Sáez](https://github.com/AlexS12)
+    * [Juan José Matesanz](https://github.com/JuanMatSa)
 
 ## Cursos similares:
 
