@@ -21,7 +21,7 @@ Equipo:
 * [Jose Luis Cercós](https://github.com/sanguinariojoe)
 * [Juan Luis Cano](https://github.com/Juanlu001)
 * [Siro Moreno](https://github.com/AunSiro)
-* [Mabel Delgado](https://github.com/mabeldb)
+* [Mabel Delgado](https://github.com/mabeldelgadob)
 * Martín Collado (sistemas/infraestructura)
 * José Luis Orts (sistemas/infraestructura)
 
